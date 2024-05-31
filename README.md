@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-jadhav-0" alt="akshay-jadhav-0" /></a> </p>
 
-- 🌱 I’m currently learning **Redshift**
+- 🌱 I’m currently learning **Cyber-Security**
 
 - 👯 I’m looking to collaborate on **Cloud Native Project**
 
