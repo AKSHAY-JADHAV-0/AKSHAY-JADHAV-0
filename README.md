@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Devops**
 
-- 📫 How to reach me **jadhavakshay0504@gmail.com**
+- 📫 How to reach me **jadhavakshay0124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
