@@ -26,7 +26,7 @@
 
 <h3 align="center"><span style="color:#FF69B4;">🌐 Connect with Me</span></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshay-jadhav-0" target="_blank">
+  <a href="https://www.linkedin.com/in/akshay-jadhav-822304268/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jadhavakshay0124@gmail.com" target="_blank">
